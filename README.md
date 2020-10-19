@@ -11,11 +11,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sashankneupane1?label=Follow&style=social)](https://twitter.com/sashankneupane1)
 
 ---
-As I am new to everything here, I am just learning the basic concepts first.
-- I am starting with <img align="center" src="https://simpleicons.org/icons/git.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/github.svg" height="20" width="20">, of course. 
+
+- I am starting with <img align="center" src="https://simpleicons.org/icons/git.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/github.svg" height="20" width="20">. 
 - I am looking into <img align="center" src="https://simpleicons.org/icons/numpy.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/pandas.svg" height="20" width="20"> in <img align="center" src="https://simpleicons.org/icons/python.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/react.svg" height="20" width="20"> in <img align="center" src="https://simpleicons.org/icons/javascript.svg" height="20" width="20">. 
 - I want to develop my personal website as soon as possible by learning <img align="center" src="https://simpleicons.org/icons/react.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/gatsby.svg" height="20" width="20">.
 - I am reading Michael Nielson's book on Deeplearning. 
+- Currently, I am leading sudoku project for python learners under [Ejalo Labs](https://github.com/Ejalo-Labs). Join our discord server [here](https://discord.gg/2QhyAHd).
 - I play chess to releive stress and have fun and I am always open for challenges. If you are free and see me online, feel free to hit me up with a challenge. <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a>.
 
 
