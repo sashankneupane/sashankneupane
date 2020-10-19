@@ -23,7 +23,7 @@
 
 <hr>
 
-<p> This is the first project I built, a multiplayer Tic-Tac-Toe game on Python. It is a simple game but I had a lot of fun building it. I will be adding more features to it in the future.</p>
+<p> This is the first project I built, a multiplayer Tic-Tac-Toe game on Python. It is a simple game but I had a lot of fun building it.</p>
 
 <a href="https://github.com/sashankneupane7/First-Project-Tic-Tac-Toe-game-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=First-Project-Tic-Tac-Toe-game-&show_owner=true&theme=radical" />
