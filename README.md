@@ -19,17 +19,6 @@
 - Currently, I am leading sudoku project for python learners under [Ejalo Labs](https://github.com/Ejalo-Labs). Join our discord server [here](https://discord.gg/2QhyAHd).
 - I play chess to releive stress and have fun and I am always open for challenges. If you are free and see me online, feel free to hit me up with a challenge. <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a>.
 
-
-
-<hr>
-
-<p> This is the first project I built, a multiplayer Tic-Tac-Toe game on Python. It is a simple game but I had a lot of fun building it.</p>
-
-<a href="https://github.com/sashankneupane7/First-Project-Tic-Tac-Toe-game-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=First-Project-Tic-Tac-Toe-game-&show_owner=true&theme=radical" />
-</a>
-
-
 <hr/>
 
 <h2 ><b>GitHub stats</b></h2>
