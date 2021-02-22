@@ -1,8 +1,7 @@
-<img align = "center" src= assets/images/logo0.png>
-
+<a href="https://sashankneupane.com.np"> <img src="assets/images/logo1.png" alt="sashankneupane" title="sashankneupanelogo" width="100%" height="auto" /></a>
 
 <h1> <img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/> Hi, I am Sashank, a <b>learner</b>, <b>coder</b>, and <b>problem solver</b>. </h1>
- 
+<h4 center = "align"><a href="https://sashankneupane.com.np">My Personal Website</a></h4>
 
 <p> I am new to the programming world, but I am fascinated by its power and elegance. With every problem I solve and every line of code I write, I am drawn more into it. I love to tackle hardest problems with beautiful solutions. I aspire to become an AI engineer in the future. </p>
 
@@ -12,11 +11,6 @@
 
 ---
 
-- I am starting with <img align="center" src="https://simpleicons.org/icons/git.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/github.svg" height="20" width="20">. 
-- I am looking into <img align="center" src="https://simpleicons.org/icons/numpy.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/pandas.svg" height="20" width="20"> in <img align="center" src="https://simpleicons.org/icons/python.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/react.svg" height="20" width="20"> in <img align="center" src="https://simpleicons.org/icons/javascript.svg" height="20" width="20">. 
-- I want to develop my personal website as soon as possible by learning <img align="center" src="https://simpleicons.org/icons/react.svg" height="20" width="20"> and <img align="center" src="https://simpleicons.org/icons/gatsby.svg" height="20" width="20">.
-- I am reading Michael Nielson's book on Deeplearning. 
-- Currently, I am leading sudoku project for python learners under [Ejalo Labs](https://github.com/Ejalo-Labs). Join our discord server [here](https://discord.gg/2QhyAHd).
 - I play chess to releive stress and have fun and I am always open for challenges. If you are free and see me online, feel free to hit me up with a challenge. <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a>.
 
 <hr/>
@@ -32,6 +26,6 @@
 
 ----
 
-<p> Top languages that I use. For now, it's only one 😅 but the list will increase for sure. </p>
+<p> My favorite programming languages. </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashankneupane7&layout=compact&theme=radical)](https://github.com/sashankneupane7)
