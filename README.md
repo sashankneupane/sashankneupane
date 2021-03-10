@@ -44,11 +44,7 @@ Let's connect and share ideas.
 <p width="100%" align="center">
   <a align="center" href="https://github.com/sashankneupane7/sudoku-solver" title="sudoku-solver"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=sudoku-solver&theme=gotham"></a><a align="center" href="https://github.com/sashankneupane7/project-euler" title="project-euler"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=project-euler&theme=gotham"></a>
 </p>
-<br><br>
-<p width="100%" align="center">
-
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <h4 align="center">
   <a href="https://github.com/sashankneupane7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
