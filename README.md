@@ -20,11 +20,11 @@ const knahsas = {
 };
 ```
 
-#100DaysofCode
+#100DaysOfCode
 
-#2DayCompleted
+#3DaysCompleted
 
-## ![2%](https://progress-bar.dev/2/)
+## ![3%](https://progress-bar.dev/3/)
 
 Let's connect and share ideas.
 
