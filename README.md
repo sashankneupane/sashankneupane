@@ -22,9 +22,9 @@ const knahsas = {
 
 #100DaysOfCode
 
-#3DaysCompleted
+#4DaysCompleted
 
-## ![3%](https://progress-bar.dev/3/)
+## ![4%](https://progress-bar.dev/4/)
 
 Let's connect and share ideas.
 
