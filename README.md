@@ -15,16 +15,8 @@ const knahsas = {
   pronouns: "he" | "him" | "his",
   code: [HTML, CSS, JavaScript, Python],
   aspiration: ["AI/ML Engineer"],
-  challenge:
-    "I am doing the #100DaysOfCode challenge starting March 10th, 2021.",
 };
 ```
-
-#100DaysOfCode
-
-#4DaysCompleted
-
-## ![4%](https://progress-bar.dev/4/)
 
 Let's connect and share ideas.
 
