@@ -17,6 +17,7 @@ const knahsas = {
   aspiration: ["AI/ML Engineer"],
 };
 ```
+Trying to be consistent. Let's make that github activity grid all green!
 
 Let's connect and share ideas.
 
