@@ -21,7 +21,7 @@ Trying to be consistent. Let's make that github activity grid all green!
 
 Let's connect and share ideas.
 
-...and perhaps play some chess? Challenge me @ <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a> or play with my <a href="https://lichess.org/?user=blindpirate#friend>lichess bot</a> and have fun!!
+...and perhaps play some chess? Challenge me @ <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a> or play with my <a href="https://lichess.org/?user=blindpirate#friend">lichess bot</a> and have fun!!
 
 ---
 
