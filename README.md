@@ -13,7 +13,7 @@ A <b>learner</b>, <b>coder</b>, and <b>problem solver</b>. </h1>
 ```javascript
 const knahsas = {
   pronouns: "he" | "him" | "his",
-  code: [HTML, CSS, JavaScript, Python],
+  code: [HTML, CSS, Python, Javascript, Typescript, React, Shell Scripting]
   aspiration: ["AI/ML Engineer"],
 };
 ```
