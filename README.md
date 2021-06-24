@@ -32,18 +32,3 @@ Let's connect and share ideas.
   <a href="https://github.com/sashankneupane7/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashankneupane7&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
-</p>
-
-<hr>
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="center" href="https://github.com/sashankneupane7/meditation-app" title="meditation-app"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=meditation-app&theme=gotham"></a><a align="center" href="https://github.com/sashankneupane7/sashankneupane7.github.io" title="sashankneupane7.github.io"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=sashankneupane7.github.io&theme=gotham"></a>
-</p>
-<p width="100%" align="center">
-  <a align="center" href="https://github.com/sashankneupane7/sudoku-solver" title="sudoku-solver"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=sudoku-solver&theme=gotham"></a><a align="center" href="https://github.com/sashankneupane7/project-euler" title="project-euler"><img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sashankneupane7&repo=project-euler&theme=gotham"></a>
-</p>
-<br>
-<h4 align="center">
-  <a href="https://github.com/sashankneupane7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
