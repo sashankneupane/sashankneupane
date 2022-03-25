@@ -13,11 +13,13 @@ A <b>learner</b>, <b>coder</b>, and <b>problem solver</b>. </h1>
 ```javascript
 const knahsas = {
   pronouns: "he" | "him" | "his",
-  code: [HTML, CSS, Python, Javascript, Typescript, React, Shell Scripting]
+  code: [C++, Python, Javascript, Typescript, React, HTML, CSS, Shell Scripting]
   aspiration: ["AI/ML Engineer"],
 };
 ```
-Trying to be consistent. Let's make that github activity grid all green!
+
+Currently, I am participating in <a href = "https://sites.nyuad.nyu.edu/hackathon/" >NYUAD International Hackathon for Social Good Focusing on Quantum Computing</a>.
+
 
 Let's connect and share ideas.
 
