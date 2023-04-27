@@ -26,11 +26,3 @@ Let's connect and share ideas.
 ...and perhaps play some chess? Challenge me @ <a href="https://lichess.org/@/sashankneupane">My Lichess acount</a> | <a href="https://www.chess.com/member/knahsas07">My chess.com account</a> or play with my <a href="https://lichess.org/?user=blindpirate#friend" target="_blank">lichess bot</a> and have fun!!
 
 ---
-
-<p align=center>
-  <a href="https://github.com/sashankneupane7/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=sashankneupane7&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/sashankneupane7/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashankneupane7&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
